@@ -3,8 +3,8 @@
 ##Basics
  - Browser
  - Command line
- - Tools
  - Web
+ - Tools (Editor, Git)
 
 ##Frontend
  - HTML
