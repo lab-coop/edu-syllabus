@@ -1,10 +1,17 @@
 # edu-syllabus
 
 ##Basics
- - Browser
  - Command line
+   - moving around
+   - files
  - Web
- - Tools (Editor, Git)
+   - HTTP server
+   - Browser
+ - Tools
+   - Editor
+   - Git
+   - Developer Tools
+ - Resources for learning and if you stuck
 
 ##Frontend
  - HTML
@@ -12,7 +19,7 @@
  - JavaScript
 
 ##Backend
- - Node.js
+ - Node.js / Rails / Django
  - SQL
  - MongoDB
  - Hosting
