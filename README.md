@@ -18,6 +18,7 @@
    - http://www.codecademy.com/en/tracks/web
  - CSS
  - JavaScript
+   - http://www.codecademy.com/en/tracks/javascript
 
 ##Backend
  - Node.js / Rails / Django
